@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+font-family: 'Merienda', cursive; 
+font-size: 183px;
+}
+h6{
+    font-family: 'Indie Flower', cursive;
+    font-size:40px;
+  }
+#P_F{
+    border-width: 20px;
+    border-style: groove;
+    border-color: rgb(255, 229, 145);
+}
+#q{
+    font-size: 80px;
+}
+#w{
+    font-size: 80px;
+}
